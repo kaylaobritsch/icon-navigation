@@ -5,7 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  font-family: sans-serif;
+  font-family: "Abhaya Libre", serif;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -17,12 +17,7 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  font-family: "Abhaya Libre", serif;
-  margin: 0;
-}
-
-.grid {
+.masthead {
   background-color: #423ca3;
 }
 
@@ -36,7 +31,7 @@ body {
   border: none;
 }
 
-nav {
+.nav {
   text-align: center;
 }
 
