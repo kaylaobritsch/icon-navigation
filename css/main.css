@@ -31,18 +31,16 @@ body {
   text-align: center;
 }
 
-a {
+.btn {
   background-color: #15114c;
-  color: #fff;
-  text-decoration: none;
+  border: none;
 }
-
 
 nav {
   text-align: center;
 }
 
-a:hover {
+.btn:hover {
   background-color: #fff;
   color: #15114c;
 }
